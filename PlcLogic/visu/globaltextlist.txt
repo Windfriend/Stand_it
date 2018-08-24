@@ -1,0 +1,68 @@
+Id;Default
+511; Solenoid valve for air flow air flow to receiver
+771; Solenoid valve for air flow to receiver
+555; Solenoid valve for air flow to separator
+202; Solenoid valve for drain air from receiver
+904; Solenoid valve for drain air from separator
+388; Solenoid valve for foam extinguishing in separators
+447; solenoid valve for foam flow to well
+190; Solenoid valve for foam flow to well
+81; Solenoid valve for water flow to wel
+947; Solenoid valve for water flow to well
+102; Solenoid valve for water flow to wellto well
+317; Solenoid valvefor foam extinguishing in separators
+31; Ssolenoid valve for water flow to wellto well
+23;Actual values
+22;Admin
+860;Air flow = %3.2f m3/h
+274;Air flow = %3.2f Vdc
+683;Air velocity = %3.2f m/s
+496;Air velocity = %3.2f m3/h
+660;C
+130;Camera
+979;Diff pressure = %3.2f
+96;Diff pressure = %3.2f kPa
+661;Experiment Adjustments
+975;Experiment Settings
+971;Experimentnt Adjustments
+735;GasWell Experiment Settings
+295;GasWell Operator Panel
+129;None
+386;Operator Panel
+231;Pressure Trend
+812;Pump speed reference = %3.2f
+917;Pump speed reference = %3.2f Vdc
+845;Receiver pressure = %3.2f
+982;Receiver pressure = %3.2f kPa
+149;Separator pressure = %3.2f
+534;Separator pressure = %3.2f kPa
+736;Set air flow = %3.1f l/min
+72;Set air flow = %4.0f l/min
+112;Set air temperature = %2.1f C
+355;Set air temperature = %4.0f C
+507;Set surfactant flow = %2.1f l/min
+810;Set system pressure
+330;Set system pressure =  %3.2f 
+990;Set system pressure =  %3.2f kPa
+594;Set system pressure = %3.2f
+382;Set system pressure = %3.2f kPa
+422;Set system pressure = %4.0f kPa
+768;Set system pressure, kPa
+158;Set system pressure, kPa = 
+155;Set system pressure, kPa =  %3.2f 
+776;Set water flow = %2.1f l/min
+745;Set water flow = %3.1f l/min
+531;Solenoid valves status
+853;Temp flowmeter = %3.2f
+551;Temp Mast = %3.2f
+899;Temp Well = %3.2f
+95;temperature = %3.2f
+854;Temperature tfTeLabel
+561;Temperature Trand
+922;Temperature Trend
+725;User
+916;Video Camera
+498;Visualization
+596;Water volume = %3.2f L
+373;Water volume = %3.2f l/min
+525;Water volume = %3.2f litres
